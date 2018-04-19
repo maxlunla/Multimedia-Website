@@ -383,14 +383,6 @@ textarea.form-control {
     font-size: 40px;
   }
 }
-
-@media (max-width: 991.98px) {
-  .heading_hotel {
-    font-size: 5px;
-    font-family: 'Athiti', sans-serif;
-  }
-}
-
 .bg-pattern {
   background: #e9ecef url("../img/round.png");
 }
@@ -935,3 +927,4 @@ textarea.form-control {
   -webkit-box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
 }
+
